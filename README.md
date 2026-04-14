@@ -1,3 +1,5 @@
+NOTE: THIS PROGRAM IS NOT FOR CLINICAL USE.
+
 C based program to parse standard DICOM file to export all tags without using any third-party library.
 
 how to compile: 
